@@ -92,6 +92,6 @@ Feel free to fork this repository, make improvements, and submit a pull request.
 ---
 
 ## Contact 📩
-For any queries or suggestions, please contact: [your-email@example.com](mailto:monishtejavath@gmail.com.com).
+For any queries or suggestions, please contact: [monishtejavath@gmail.com](mailto:monishtejavath@gmail.com.com).
 
 
